@@ -280,7 +280,7 @@ File2Hbitmap(File) {
 	Return hBitmap
 	}
 
-Fishing_File :=	""
+Fishing_File := ""
 Attacking_File := ""
 
 return
