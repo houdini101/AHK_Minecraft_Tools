@@ -7,4 +7,4 @@ Important Reminders:
 2. This Script is working only for the following window size: 1280 x 720.
 3. Caption (subtitle) must be turned ON in Minecraft's setting.
 4. Gui scale must be set to 2 in Minecraft's setting.
-5. Works for all available Minecraft verions up to the latest 1.16.3.
+5. Works for all applicable Minecraft versions up to the latest 1.16.3.
