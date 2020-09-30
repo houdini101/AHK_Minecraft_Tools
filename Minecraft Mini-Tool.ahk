@@ -1,3 +1,9 @@
+;  ________________________________________________________________________________________
+; |  Created by Houdini101 (Edgecraft). You may copy, distribute, or modify this file and  |
+; |  change it's code to suit your need, provided that you, as the user, will NOT ommit    |
+; |  this comment box or any commentary whatsoever.                                        |
+; |________________________________________________________________________________________|
+
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
