@@ -74,7 +74,7 @@ Send {RButton} ;Initial cast of the Fishing Rod
 Loop
 	{
 	if !WinActive(ahk_class GLFW30)
-			Fishing := "AltTabbed"			
+		Fishing := "AltTabbed"			
 	if Fishing != Auto
 		break
 	ImageSearch, , , 1005, 555, 1085, 655, *40 *TransBlack HBITMAP:*%FishHook%
