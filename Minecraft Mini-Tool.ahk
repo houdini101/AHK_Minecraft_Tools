@@ -20,7 +20,7 @@ gosub, Image2Include
 ;=============================================================================
 Hotkeys:
 Hotkey, !c, AFK_Fishing, t2 	; Alt + C : Toggle Auto-Fishing
-Hotkey, !v, Auto_Attack, t2 	; Alt + V : Toggle Auto Sweep-Attack
+Hotkey, !v, Auto_Attack, t2 	; Alt + V : Toggle Auto-Sweep Attack
 Hotkey, !z, Portal_Calculator	; Alt + Z : Nether Portal Calculator
 
 ;=============================================================================
