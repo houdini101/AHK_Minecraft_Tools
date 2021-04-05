@@ -12,7 +12,7 @@
 
 ### Controls
 - **Alt + C** : Toggle Auto-Fishing
-- **Alt + V** : Toggle Auto Sweep-Attack
+- **Alt + V** : Toggle Auto-Sweep Attack
 - **Alt + Z** : Nether Portal Calculator
 
 ------------
