@@ -21,7 +21,7 @@
 1. AutoHotkey must be installed before using this script, duh!
 2. This Script only works for the following window size: 1280 x 720.
 3. Caption (subtitle) must be turned ON in Minecraft's setting.
-4. Gui scale must be set to 2 in Minecrafts setting.
+4. Gui scale must be set to 2 in Minecraft's setting.
 5. Works for all applicable Minecraft versions up to the latest version.
 
 ------------
