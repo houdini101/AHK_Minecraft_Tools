@@ -6,7 +6,7 @@
 ### Features
 - **AFK-Fishing** : Simply find a safe spot to fish, and let the script do the rest.
 - **Auto-Sweep Attack** : Running a mob spawning farm that requires you to attack the mobs for exp while AFK? This is answer for you.
-- **Nether Portal Calculator** : No need to go online for Portal Calculators, typing in your coordinates in order to place your Nether Portals on desired coordinates. This script does all the work in-game.
+- **Nether Portal Calculator** : No need to go online for Portal Calculators and typing in your coordinates in order to know your Nether Portal coordinates. This script does all the work in-game.
 
 ------------
 
