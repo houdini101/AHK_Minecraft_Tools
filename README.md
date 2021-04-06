@@ -32,3 +32,11 @@
 
 ### Limitations and Known Bugs
 1. Auto-Sweep Attack only triggers when there's a **Sword Icon** below the crosshair (Attack Indicator setting is set to Crosshair) and works best when pointed at dark-colored mobs. Pointing the crosshair on light-colors (e.g. white, yellow etc.) will trigger the Auto-Sweep Attack continuously. The Sword Icon visibility is essential for it to work.
+
+------------
+
+### Credits
+Thanks to SKAN for creating a wonderful script.
+
+> Bitmap creation adopted from "How to convert Image data (JPEG/PNG/GIF) to hBITMAP?" by SKAN
+> http://www.autohotkey.com/board/topic/21213-how-to-convert-image-data-jpegpnggif-to-hbitmap/?p=139257
