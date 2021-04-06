@@ -24,10 +24,11 @@
 2. This Script only works for the following window size: 1280 x 720.
 3. Caption (subtitle) must be turned ON in Minecraft's setting.
 4. Gui scale must be set to 2 in Minecraft's setting.
-5. A good item hopper setup is essential for AFK-Fishing.
-6. Works for all applicable Minecraft versions up to the latest version.
+5. Attack Indicator must be set to Crosshair in Minecraft's setting.
+6. A good item hopper setup is essential for AFK-Fishing.
+7. Works for all applicable Minecraft versions up to the latest version.
 
 ------------
 
 ### Limitations and Known Bugs
-1. Auto-Sweep Attack only triggers when there's a **Sword Icon** below the crosshair and works best when pointed at dark-colored mobs. Pointing the crosshair on light-colors (e.g. white, yellow etc.) will trigger the Auto-Sweep Attack continuously. The Sword Icon visibility is essential for it to work.
+1. Auto-Sweep Attack only triggers when there's a **Sword Icon** below the crosshair (Attack Indicator setting is set to Crosshair) and works best when pointed at dark-colored mobs. Pointing the crosshair on light-colors (e.g. white, yellow etc.) will trigger the Auto-Sweep Attack continuously. The Sword Icon visibility is essential for it to work.
