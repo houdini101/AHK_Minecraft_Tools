@@ -41,14 +41,15 @@ ButtonHide:
 Gui +OwnDialogs
 MsgBox, 4, Minecraft Mini-Tool, % "Hide the tool window?`n`nReminder:`n`nYou can close this tool later by right-clicking`non its tray icon then selecting exit."
 IfMsgBox Yes
-Gui, Hide
+	Gui, Hide
 return
 
 ButtonExit:
 Gui +OwnDialogs
 MsgBox, 4, Minecraft Mini-Tool, % "Are you sure you want to exit?"
 IfMsgBox Yes
-ExitApp
+	ExitApp
+return
 
 ;=============================================================================
 AFK_Fishing: ;################################################################
