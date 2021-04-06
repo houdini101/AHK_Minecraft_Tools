@@ -6,7 +6,7 @@
 ### Features
 - **AFK-Fishing** : Simply find a safe spot to fish, and let the script do the rest. What it differs from other AFK Fishing script is it's efficiency. It will automatically reel-in the rod **only if it caught something** and quickly cast it again. It also gives a report on how many fish/items you acquired and the elapsed time in HH:MM:SS format.
 
-- **Auto-Sweep Attack** : Running a mob spawning farm that requires you to attack the mobs for exp while AFK? This is answer for you.
+- **Auto-Sweep Attack** : Running a mob spawning farm that requires you to attack the mobs for exp while AFK? This is answer for you. (see Limitations and Known Bugs for additional info.)
 
 - **Nether Portal Calculator** : No need to go online for Portal Calculators and typing in your coordinates in order to know your Nether Portal coordinates. This script does all the work in-game. Calculates coordinate in Overworld >> Nether and vice-versa.
 
