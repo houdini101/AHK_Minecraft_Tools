@@ -36,11 +36,10 @@
 ------------
 
 ### Credits
-
-Thanks to [just me] for simplifying SKAN's work and created Image2Include.ahk
+Thanks to [just me] for simplifying SKAN's work and created Image2Include.ahk +GUI.
 > Image2Include.ahk was used for converting image files to HBitmap. 
 > https://www.autohotkey.com/board/topic/93292-image2include-include-images-in-your-scripts/
 ------------
-Thanks to SKAN for creating a wonderful script.
+Thanks to [SKAN] for creating a wonderful script.
 > Bitmap creation adopted from "How to convert Image data (JPEG/PNG/GIF) to hBITMAP?" by SKAN
 > http://www.autohotkey.com/board/topic/21213-how-to-convert-image-data-jpegpnggif-to-hbitmap/?p=139257
