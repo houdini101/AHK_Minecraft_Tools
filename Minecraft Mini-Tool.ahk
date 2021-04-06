@@ -29,13 +29,19 @@ Gui, New,, Minecraft Mini-Tool
 Gui, Add, Text, y+30, % "Alt + C : Toggle Auto-Fishing"
 Gui, Add, Text, y+30, % "Alt + V : Toggle Auto Sweep-Attack"
 Gui, Add, Text, y+30, % "Alt + Z : Nether Portal Calculator"
-Gui, Add, Button,y+30 w+100, % "Hide"
+Gui, Add, Button,y+30 w+100, % "Help"
+Gui, Add, Button, yp wp x+10, % "Hide"
 Gui, Add, Button, yp wp x+10, % "Exit"
 Gui, Show,, Minecraft Mini-Tool
 return
 
 GuiClose:
 goto, ButtonExit
+
+ButtonHelp:
+Gui +OwnDialogs
+MsgBox, , Minecraft Mini-Tool, % "Important Reminders:`n`n1. This Script only works for the following window size: 1280 x 720.`n`n2. Caption (subtitle) must be turned ON in Minecraft's setting.`n`n3. Gui scale must be set to 2 in Minecraft's setting.`n`n4. Attack Indicator must be set to Crosshair in Minecraft's setting."
+return
 
 ButtonHide:
 Gui +OwnDialogs
