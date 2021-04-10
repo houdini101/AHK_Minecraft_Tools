@@ -26,9 +26,9 @@ Hotkey, !z, Portal_Calculator	; Alt + Z : Nether Portal Calculator
 ;=============================================================================
 Info:
 Gui, New,, Minecraft Mini-Tool
-Gui, Add, Text, y+30, % "Alt + C : Toggle Auto-Fishing"
-Gui, Add, Text, y+30, % "Alt + V : Toggle Auto Sweep-Attack"
-Gui, Add, Text, y+30, % "Alt + Z : Nether Portal Calculator"
+Gui, Add, Text, y+30, % "		Alt + C : Toggle Auto-Fishing"
+Gui, Add, Text, y+30, % "		Alt + V : Toggle Auto Sweep-Attack"
+Gui, Add, Text, y+30, % "		Alt + Z : Nether Portal Calculator"
 Gui, Add, Button,y+30 w+100, % "Help"
 Gui, Add, Button, yp wp x+10, % "Hide"
 Gui, Add, Button, yp wp x+10, % "Exit"
