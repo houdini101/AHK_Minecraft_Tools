@@ -31,7 +31,9 @@
 ------------
 
 ### Limitations and Known Bugs
-1. Auto-Sweep Attack only triggers when there's a **Sword Icon** below the crosshair (Attack Indicator setting is set to Crosshair) and works best when pointed at dark-colored mobs. Pointing the crosshair on light-colors (e.g. white, yellow etc.) will trigger the Auto-Sweep Attack continuously. The Sword Icon visibility is essential for it to work.
+1. Auto-Sweep Attack only triggers when there's a **Sword Icon** below the crosshair ![CrossHair](https://user-images.githubusercontent.com/72056691/125007892-e1eaae00-e093-11eb-916d-6206deb2bd8b.png) (Attack Indicator setting is set to Crosshair) and works best when pointed at dark-colored mobs. Pointing the crosshair on light-colors (e.g. white, yellow etc.) will trigger the Auto-Sweep Attack continuously. The Sword Icon visibility is essential for it to work.
+ 
+
 
 ------------
 
