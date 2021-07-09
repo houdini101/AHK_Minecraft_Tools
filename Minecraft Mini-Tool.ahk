@@ -129,7 +129,7 @@ if Fishing = Stopped ; Alt + c was pressed again.
 	}
 if Fishing = AltTabbed ; Minecraft window was minimized.
 	{
-	MsgBox, 0, Minecraft Mini-Tool, % "The Auto-Fishing was stopped becaused the Minecraft window was minimized." Fish_Tally
+	MsgBox, 0, Minecraft Mini-Tool, % "The Auto-Fishing was stopped because the Minecraft window was minimized." Fish_Tally
 	}
 WinActivate, ahk_class GLFW30
 Fishing := ""
