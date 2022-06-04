@@ -1,6 +1,6 @@
 ;  ________________________________________________________________________________________
 ; |  Created by Houdini101 (Edgecraft). You may copy, distribute, or modify this file and  |
-; |  change its code to suit your need, provided that you, as the user, will NOT ommit    |
+; |  change its code to suit your need, provided that you, as the user, will NOT ommit     |
 ; |  this comment box or any commentary whatsoever.                                        |
 ; |________________________________________________________________________________________|
 
